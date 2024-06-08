@@ -1,0 +1,76 @@
+:root{
+      --bg-color1:#1f2123;
+      --bg-color2:#2a2b2b;
+}
+
+body{
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+      background-color: var(--bg-color1);
+      color: white;
+      /* font-family:  sans-serif; */
+}
+
+.card-img{
+      width: 100%;
+}
+.intro h1{
+      display: flex;
+      justify-content: center;
+      font-size: 60px;
+      margin-bottom: 0;
+      font-family: Papyrus, fantasy;
+      /* text-align: center; */
+      /* margin-inline: auto; */
+}
+.introduction{
+      width: 60rem;
+      margin-inline: auto;
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 5rem;
+      line-height: 2rem
+
+}
+
+.left, .right{
+     background-color: var(--bg-color2);
+     padding: 0 35px;
+     border-top-right-radius: 15px;
+     border-bottom-left-radius: 15px;
+}
+
+.intro{
+      margin:0 30px 0 30px;
+}
+.career_start{
+      display: flex;
+      justify-content: center;
+      gap: 20px;
+      align-items: center;
+}
+.content{
+      padding: 50px;
+      background-color: var(--bg-color2);
+      border-top-right-radius: 15px;
+      border-bottom-left-radius: 15px;
+}
+
+.content p{
+      line-height: 25px;
+}
+.card_group{
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 3rem;
+}
+.card{
+      background-color: var(--bg-color2);
+      padding: 10px;
+      border-top-right-radius: 15px;
+      border-bottom-left-radius: 15px;
+}
+.card p{
+      color: gray;
+}
