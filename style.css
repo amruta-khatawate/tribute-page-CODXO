@@ -64,6 +64,7 @@ body{
       display: grid;
       grid-template-columns: repeat(3, 1fr);
       gap: 3rem;
+      margin-inline: auto;
 }
 .card{
       background-color: var(--bg-color2);
@@ -73,4 +74,11 @@ body{
 }
 .card p{
       color: gray;
+}
+
+.awards{
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      align-items: center;
+      margin-left: 100px;
 }
