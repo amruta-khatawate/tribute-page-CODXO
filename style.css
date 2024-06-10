@@ -82,3 +82,15 @@ body{
       align-items: center;
       margin-left: 100px;
 }
+
+.quote{
+      margin-top: 8rem;
+      width:500px ;
+      margin-inline: auto;
+      background-color: var(--bg-color2);
+      /* color:cadetblue; */
+      padding: 10px 105px;
+      border-top-right-radius: 35px;
+      border-bottom-left-radius: 35px;
+      box-shadow: 1px 1px 10px rgb(255, 255, 255);
+}
