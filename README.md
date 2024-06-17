@@ -20,5 +20,6 @@ This web application serves as a tribute to Virat Kohli, showcasing his career a
 
 ## Technologies Used
 
+
 - HTML5
 - CSS3
