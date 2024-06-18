@@ -9,12 +9,8 @@ body{
       box-sizing: border-box;
       background-color: var(--bg-color1);
       color: white;
-      /* font-family:  sans-serif; */
 }
 
-.card-img{
-      width: 100%;
-}
 .intro h1{
       display: flex;
       justify-content: center;
@@ -123,4 +119,13 @@ body{
       margin-bottom: 50px;
 }
 
+.images{
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 30px;
+}
 
+
+footer{
+      height: 90px;
+}
