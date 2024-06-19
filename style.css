@@ -131,4 +131,16 @@ footer{
 
 .reffer{
       font-size: 20px;
+      padding: 50px 10px;
+}
+
+.reffer a{
+      color: blue;
+      text-decoration: none;
+}
+
+.reffer a:hover{
+      text-decoration: underline;
+      color: white;
+      cursor: pointer;
 }
