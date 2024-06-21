@@ -16,10 +16,11 @@ This web application serves as a tribute to Virat Kohli, showcasing his career a
 ## Features
 
 - Biography of Virat Kohli
-- Career highlights and achievements
-- Gallery of images
-- Embedded videos
-- Contact form
+- Career Start
+- Major Achievements
+- National Honours
+- Playing style and techniques
+- Gallerry & Quote
 
 ## Technologies Used
 
