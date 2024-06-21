@@ -3,8 +3,10 @@
 Welcome to the tribute page dedicated to Virat Kohli, one of the greatest cricketers of all time. This project is a simple web application developed using HTML and CSS.
 
 - [Introduction](#introduction)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
+- [Career Start](#Career-Start)
+- [Major Achievements](#Major-Achievements)
+- [Major Achievements](#Major-Achievements)
+- [Major Achievements](#Major-Achievements)
 
 ## Introduction
 
