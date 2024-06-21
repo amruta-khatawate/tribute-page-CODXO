@@ -5,8 +5,9 @@ Welcome to the tribute page dedicated to Virat Kohli, one of the greatest cricke
 - [Introduction](#introduction)
 - [Career Start](#Career-Start)
 - [Major Achievements](#Major-Achievements)
-- [Major Achievements](#Major-Achievements)
-- [Major Achievements](#Major-Achievements)
+- [National Honours](#National-Honours)
+- [Playing style and techniques](#Playing-style-and-techniques)
+- [Gallerry & Quote](#Gallerry-&-Quote)
 
 ## Introduction
 
